@@ -1,0 +1,12 @@
+
+Member id - 001
+Member name - Tharindu
+Member date of birth - 2004
+
+Member id - 002
+Member name - kalpa
+Member date of birth - 1998
+
+Member id - 003
+Member name - jima
+Member date of birth - 2004
